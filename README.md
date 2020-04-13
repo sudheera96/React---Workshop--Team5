@@ -64,6 +64,14 @@ my-app
     └── serviceWorker.js
     
 ```
+For generated files look in repo
+
+[public](https://github.com/sudheera96/React-React-Life-Cycle--Subtopic-/tree/master/public)
+
+[src](https://github.com/sudheera96/React-React-Life-Cycle--Subtopic-/tree/master/src)
+
+[package.json](https://github.com/sudheera96/React-React-Life-Cycle--Subtopic-/blob/master/package.json)
+
 ## DIFFERENCE BETWEEN Props and State
 Before going to presentation please read the difference between Props and State
 
@@ -86,6 +94,13 @@ The three phases are:
 [Individual Presentation]
 
 [Individual Presentation Vedio]
+
+## Demo
+
+Demo is on constructor,which is a first step in react life cycle.
+The ```constructor()``` method is called before anything else, when the component is initiated, and it is the natural place to set up the initial state and other initial values.
+
+The ```constructor()``` method is called with the props, as arguments, and you should always start by calling the ```super(props)``` before anything else, this will initiate the parent's constructor method and allows the component to inherit methods from its parent ```(React.Component)```.
 
 [Individual Demo]
 
