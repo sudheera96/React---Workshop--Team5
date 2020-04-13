@@ -100,15 +100,15 @@ The three phases are:
 ## Presentaion and Demo
 [Group Presentation]
 
-[Group Presentation Vedio]
+[Group Presentation Video]
 
-[Harika Kulkarni Presentation Vedio]
+[Harika Kulkarni Presentation Video]
 
-[Pruthvi Naskanti Presentation Vedio]
+[Pruthvi Naskanti Presentation Video]
 
-[Sri Sudheera Chitipolu Presentation Vedio]
+[Sri Sudheera Chitipolu Presentation Video]
 
-[Deekshith Maram Demo Vedio]
+[Deekshith Maram Demo Video]
 
 
 
@@ -159,7 +159,6 @@ ReactDOM.render(<Header />, document.getElementById('root'));
 * #### output 
 ![](https://github.com/sudheera96/React-React-Life-Cycle--Subtopic-/blob/master/Screenshot%20(42).png)
 
-[Individual Demo]
 
 ## References 
 * [React js](https://reactjs.org/docs/getting-started.html)
