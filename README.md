@@ -1,6 +1,6 @@
 # React-React-Life-Cycle--Subtopic-
 ## TEAM-5 REACT
-![TEAM](https://github.com/sudheera96/React-React-Life-Cycle--Subtopic-/blob/master/Screenshot%20(40).png)
+![TEAM]()
 ## What is REACT?
 React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
 
