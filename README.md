@@ -72,12 +72,21 @@ For generated files look in repo
 
 [package.json](https://github.com/sudheera96/React-React-Life-Cycle--Subtopic-/blob/master/package.json)
 
+## Important Terminologies
+
+1. Rendering Elements
+2. JSX
+3. Components
+4. Props
+5. States
+
 ## DIFFERENCE BETWEEN Props and State
 Before going to presentation please read the difference between Props and State
 
 ![](https://github.com/sudheera96/React-React-Life-Cycle--Subtopic-/blob/master/maxresdefault.jpg)
 
 [Image Reference](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaLmwln09Tbs&psig=AOvVaw0YpcIfD6KSfPekQkqmnZOF&ust=1586890918727000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNi757qL5ugCFQAAAAAdAAAAABAD)
+
 ## React Life Cycle
 React  lifecycle is the name given to the set of actions a react component goes through throughout its existence.
 Each component in React has a lifecycle which you can monitor and manipulate during its three main phases.
@@ -88,14 +97,23 @@ The three phases are:
 
 ![](https://github.com/sudheera96/React-React-Life-Cycle--Subtopic-/blob/master/Screenshot%20(41).png)
 
-## Presentaion
+## Presentaion and Demo
 [Group Presentation]
 
-[Individual Presentation]
+[Group Presentation Vedio]
 
-[Individual Presentation Vedio]
+[Harika Kulkarni Presentation Vedio]
 
-## Demo
+[Pruthvi Naskanti Presentation Vedio]
+
+[Sri Sudheera Chitipolu Presentation Vedio]
+
+[Deekshith Maram Demo Vedio]
+
+
+
+
+##  Sample Demo
 
 Demo is on constructor,which is a first step in react life cycle.
 The ```constructor()``` method is called before anything else, when the component is initiated, and it is the natural place to set up the initial state and other initial values.
