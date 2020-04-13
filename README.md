@@ -101,6 +101,45 @@ Demo is on constructor,which is a first step in react life cycle.
 The ```constructor()``` method is called before anything else, when the component is initiated, and it is the natural place to set up the initial state and other initial values.
 
 The ```constructor()``` method is called with the props, as arguments, and you should always start by calling the ```super(props)``` before anything else, this will initiate the parent's constructor method and allows the component to inherit methods from its parent ```(React.Component)```.
+* #### index.html
+````
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport"
+      content="width=device-width, initial-scale=1" />
+    <title>React App</title>
+  </head>
+  <body>
+
+    <div id="root"></div>
+
+  </body>
+</html>
+````
+* #### index.js
+```
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+class Header extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {favoritecolor: "red"};
+  }
+  render() {
+    return (
+      <h1>My Favorite Color is {this.state.favoritecolor}</h1>
+    );
+  }
+}
+
+ReactDOM.render(<Header />, document.getElementById('root'));
+```
+
+* #### output 
+![](https://github.com/sudheera96/React-React-Life-Cycle--Subtopic-/blob/master/Screenshot%20(42).png)
 
 [Individual Demo]
 
