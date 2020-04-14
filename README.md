@@ -1,4 +1,4 @@
-# React-React-Life-Cycle--Subtopic-
+# React
 ## TEAM-5 REACT
 ![TEAM]()
 ## What is REACT?
