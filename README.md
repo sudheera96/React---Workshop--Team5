@@ -95,7 +95,7 @@ The three phases are:
 2. Updating
 3. Unmounting.
 
-![](https://github.com/sudheera96/React-React-Life-Cycle--Subtopic-/blob/master/Screenshot%20(41).png)
+![](https://github.com/sudheera96/React---Workshop--Team5/blob/master/Screenshot%20(44).png)
 
 ## Presentaion and Demo
 [Group Presentation]
