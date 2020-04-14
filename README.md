@@ -107,7 +107,7 @@ The three phases are:
 
 [Pruthvi Naskanti Presentation Video]
 
-[Sri Sudheera Chitipolu Presentation Video]
+[Sri Sudheera Chitipolu Presentation Video](https://use.vg/G0esZw)
 
 [Deekshith Maram Demo Video]
 
