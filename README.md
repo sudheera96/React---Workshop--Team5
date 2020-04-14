@@ -99,7 +99,7 @@ The three phases are:
 ![](https://github.com/sudheera96/React---Workshop--Team5/blob/master/Screenshot%20(44).png)
 
 ## Presentaion and Demo
-[Group Presentation]
+[Group Presentation](https://github.com/sudheera96/React---Workshop--Team5/blob/master/React.pptx)
 
 [Group Presentation Video]
 
