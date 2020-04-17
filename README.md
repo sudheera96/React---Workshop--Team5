@@ -105,7 +105,7 @@ The three phases are:
 
 [Harika Kulkarni Presentation Video]
 
-[Pruthvi Naskanti Presentation Video]
+![Pruthvi Naskanti Presentation Video](https://app.vidgrid.com/view/q2tZXvivSOcI)
 
 [Sri Sudheera Chitipolu Presentation Video](https://use.vg/G0esZw)
 
