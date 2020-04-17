@@ -79,7 +79,7 @@ For generated files look in repo
 2. JSX
 3. Components
 4. Props
-5. States
+5. States.
 
 ## DIFFERENCE BETWEEN Props and State
 Before going to presentation please read the difference between Props and State
