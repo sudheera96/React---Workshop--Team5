@@ -75,8 +75,8 @@ For generated files look in repo
 
 ## Important Terminologies
 
-1. Rendering Elements
-2. JSX
+1. Rendering Elements.
+2. JSX.
 3. Components.
 4. Props.
 5. States.
