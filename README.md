@@ -103,7 +103,7 @@ The three phases are:
 
 [Group Presentation Video]
 
-[Harika Kulkarni Presentation Video]
+[Harika Kulkarni Presentation Video](https://use.vg/1OZcJr)
 
 [Pruthvi Naskanti Presentation Video](https://app.vidgrid.com/view/q2tZXvivSOcI)
 
