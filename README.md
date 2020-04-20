@@ -2,6 +2,19 @@
 ## TEAM-5 REACT
 ![](https://github.com/sudheera96/React---Workshop--Team5/blob/master/Screenshot%20(45).png)
 
+## Presentation and Demo
+[Group Presentation](https://github.com/sudheera96/React---Workshop--Team5/blob/master/React.pptx)
+
+[Group Presentation Video](https://app.vidgrid.com/view/r4acxvYq8Rqs)
+
+[Harika Kulkarni Presentation Video](https://use.vg/1OZcJr)
+
+[Pruthvi Naskanti Presentation Video](https://app.vidgrid.com/view/q2tZXvivSOcI)
+
+[Sri Sudheera Chitipolu Presentation Video](https://use.vg/G0esZw)
+
+[Deekshith Maram Demo Video](https://app.vidgrid.com/view/NdhQm4qbwLjJ)
+
 ## What is REACT?
 React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
 
@@ -97,22 +110,6 @@ The three phases are:
 3. Unmounting.
 
 ![](https://github.com/sudheera96/React---Workshop--Team5/blob/master/Screenshot%20(44).png)
-
-## Presentation and Demo
-[Group Presentation](https://github.com/sudheera96/React---Workshop--Team5/blob/master/React.pptx)
-
-[Group Presentation Video](https://app.vidgrid.com/view/r4acxvYq8Rqs)
-
-[Harika Kulkarni Presentation Video](https://use.vg/1OZcJr)
-
-[Pruthvi Naskanti Presentation Video](https://app.vidgrid.com/view/q2tZXvivSOcI)
-
-[Sri Sudheera Chitipolu Presentation Video](https://use.vg/G0esZw)
-
-[Deekshith Maram Demo Video](https://app.vidgrid.com/view/NdhQm4qbwLjJ)
-
-
-
 
 ##  Sample Demo
 
